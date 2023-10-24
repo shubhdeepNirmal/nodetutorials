@@ -1,0 +1,9 @@
+Learned about node modules today
+
+1. how to create modules in node
+  2. how to export the modules from one module 
+  3. how to import the existing modules
+  4. how to export/import multiple modules
+  5. how to use imported modules.
+  
+
