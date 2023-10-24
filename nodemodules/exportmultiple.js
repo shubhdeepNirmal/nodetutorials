@@ -6,6 +6,10 @@ class anobj{
     }
 }
 
+//export type1
 module.exports.sum=sum;
 module.exports.pi=pi;
 module.exports.anobj = anobj;
+
+//export type2
+module.exports{ sum:sum, PI:pi,CLASSOBJ:anobj};
