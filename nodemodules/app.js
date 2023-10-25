@@ -5,5 +5,6 @@ console.log(expmultiple);
 
 /* console.log(tutorial(1,1)); */
 
+console.log(expmultiple.PI);
 
   
